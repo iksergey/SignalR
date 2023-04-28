@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatLibrary", "ChatLibrary\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient", "ConsoleClient\ConsoleClient.csproj", "{447C808F-B45E-4BC3-9943-B35ED2BD68DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfClient", "WpfClient\WpfClient.csproj", "{203654F3-D495-475A-9874-3CC3BBDB073A}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -61,5 +63,17 @@ Global
 		{447C808F-B45E-4BC3-9943-B35ED2BD68DA}.Release|x64.Build.0 = Release|Any CPU
 		{447C808F-B45E-4BC3-9943-B35ED2BD68DA}.Release|x86.ActiveCfg = Release|Any CPU
 		{447C808F-B45E-4BC3-9943-B35ED2BD68DA}.Release|x86.Build.0 = Release|Any CPU
+		{203654F3-D495-475A-9874-3CC3BBDB073A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{203654F3-D495-475A-9874-3CC3BBDB073A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{203654F3-D495-475A-9874-3CC3BBDB073A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{203654F3-D495-475A-9874-3CC3BBDB073A}.Debug|x64.Build.0 = Debug|Any CPU
+		{203654F3-D495-475A-9874-3CC3BBDB073A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{203654F3-D495-475A-9874-3CC3BBDB073A}.Debug|x86.Build.0 = Debug|Any CPU
+		{203654F3-D495-475A-9874-3CC3BBDB073A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{203654F3-D495-475A-9874-3CC3BBDB073A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{203654F3-D495-475A-9874-3CC3BBDB073A}.Release|x64.ActiveCfg = Release|Any CPU
+		{203654F3-D495-475A-9874-3CC3BBDB073A}.Release|x64.Build.0 = Release|Any CPU
+		{203654F3-D495-475A-9874-3CC3BBDB073A}.Release|x86.ActiveCfg = Release|Any CPU
+		{203654F3-D495-475A-9874-3CC3BBDB073A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
